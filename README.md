@@ -55,7 +55,7 @@ git clone https://github.com/fix-the-lucy/-System-Sentinel-v1.0
 ### 📂 Step 2: Navigate to Directory
 
 ```bash
-cd System-Sentinel
+cd ./System-Sentinel-v1.0
 ```
 
 ### 🔐 Step 3: Modify Permissions
