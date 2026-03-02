@@ -49,7 +49,7 @@ Follow these steps to get **System Sentinel** running on your machine:
 
 ### 📥 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/fix-the-lucy/System-Sentinel.git
+git clone https://github.com/fix-the-lucy/-System-Sentinel-v1.0
 ```
 
 ### 📂 Step 2: Navigate to Directory
